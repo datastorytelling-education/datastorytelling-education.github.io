@@ -6,7 +6,7 @@ permalink: /pages/call/
 
 ---
 
-[Home]({{site.baseurl}}/pages/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
+[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
 
 ## Call for papers
 
