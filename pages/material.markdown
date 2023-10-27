@@ -7,6 +7,11 @@ perlink: /pages/material/
 
 [Home]({{site.baseurl}}/pages/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
 
+
+<figure>
+        <p align="center"><img src="/images/soon.jpeg" width="300" height="300" alt="Data, visualisation, and Narrative"></p>
+</figure>
+
 ## LAK21 - Data Storytelling Tutorial
 
 
