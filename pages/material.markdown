@@ -9,7 +9,7 @@ perlink: /pages/material/
 
 
 <figure>
-        <p align="center"><img src="/images/soon.jpeg" width="300" height="300" alt="Data, visualisation, and Narrative"></p>
+        <p align="center"><img src="/images/soon.jpeg" width="500" height="400" alt="Data, visualisation, and Narrative"></p>
 </figure>
 
 ## LAK21 - Data Storytelling Tutorial
