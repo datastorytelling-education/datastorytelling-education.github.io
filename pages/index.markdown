@@ -9,7 +9,7 @@ sidebar:
 
 [Home]({{site.baseurl}}/pages/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
 
-# Converging Data Storytelling Narratives and Learning Analytics Dashboards
+## DS-LAK24 - Data Storytelling Narratives and Learning Analytics Dashboards
 
 ### Workshop abstract:
 
