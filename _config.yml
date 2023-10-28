@@ -34,7 +34,7 @@ url: "https://datastorytelling-education.github.io" # the base hostname & protoc
 twitter_username: jekyllrb
 github_username:  jekyll
 
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 title_separator: "-"
 
@@ -44,6 +44,8 @@ title_separator: "-"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
