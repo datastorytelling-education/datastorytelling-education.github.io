@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: About
+title: Organisers
 permalink: /pages/about/
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: material
+title: Material
 perlink: /pages/material/
 
 ---
@@ -9,7 +9,7 @@ perlink: /pages/material/
 
 
 <figure>
-        <p align="center"><img src="/images/soon.jpeg" width="500" height="400" alt="Data, visualisation, and Narrative"></p>
+        <p align="center"><img src="/images/soon.jpeg" width="350" height="250" alt="Data, visualisation, and Narrative"></p>
 </figure>
 
 ## LAK21 - Data Storytelling Tutorial
