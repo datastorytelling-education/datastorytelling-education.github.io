@@ -10,7 +10,6 @@ sidebar:
 
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
 
-{% include figure image_path="/images/banner1.jpeg" %}
 
 ## DS-LAK24 - Data Storytelling Narratives and Learning Analytics Dashboards
 
