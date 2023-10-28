@@ -3,9 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-featured-img: /images/banner1.jpeg
-sidebar:
-	nav:"docs"
+
+
+excerpt: "Thuesday, March 19, 2024, LAK24 Kyoto, Japan"
+header:
+  overlay_image: /images/banner1.jpeg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [pixabay]"
+  actions:
+    - label: "Call for papers"
+      url: "https://datastorytelling-education.github.io/pages/call/"
 ---
 
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
@@ -14,6 +21,7 @@ sidebar:
 ## DS-LAK24 - Data Storytelling Narratives and Learning Analytics Dashboards
 
 **Where**: LAK24 Conference, Kyoto, Japan
+
 **When**: Thuesday, March 19, 2024, from 1:30 to 5:00 pm
 
 
