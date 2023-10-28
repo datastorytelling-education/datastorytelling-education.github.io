@@ -18,11 +18,11 @@ gem "minimal-mistakes-jekyll"
 # gem "github-pages", "~> 3.9.3", group: :jekyll_plugins
 
 gem "github-pages", group: :jekyll_plugins
-gem "rdiscount"
 
+#gem "rdiscount"
 #gem "jekyll-nagymaros"
 
-gem 'jekyll-include-cache'
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 
@@ -47,4 +47,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.8"
+#gem "webrick", "~> 1.8"
