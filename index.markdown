@@ -13,6 +13,10 @@ sidebar:
 
 ## DS-LAK24 - Data Storytelling Narratives and Learning Analytics Dashboards
 
+**Where**: LAK24 Conference, Kyoto, Japan
+**When**: Thuesday, March 19, 2024, from 1:30 to 5:00 pm
+
+
 ### Workshop abstract:
 
 Data Storytelling (DS) in Learning Analytics (LA) has proven as an effective approach to 
