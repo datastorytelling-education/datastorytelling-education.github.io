@@ -34,7 +34,7 @@ url: "https://datastorytelling-education.github.io" # the base hostname & protoc
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes" 
 minimal_mistakes_skin: "air"
 title_separator: "-"

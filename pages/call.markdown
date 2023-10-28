@@ -1,6 +1,6 @@
 ---
 
-layout: page
+layout: single
 title: Call for papers
 permalink: /pages/call/
 

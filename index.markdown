@@ -45,7 +45,7 @@ opportunities.
 
 <figure>
 	<p align="center">
-    		<img src="/images/data-story.jpg" width="300" height="300" alt="Data, visualisation, and Narrative">
+    		<img src="/images/data-story.jpg" width="100" height="100" alt="Data, visualisation, and Narrative">
     		<figcaption>
 			Source: Forbes article <a 
 href="https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/?sh=6d0b0ede52ad">here</a>
