@@ -43,16 +43,20 @@ bring together storytelling researchers and practitioners, whose data storytelli
 special case, to clarify and converge on the future of DS in LA related to their challenges and 
 opportunities. 
 
+{% comment %}
+[comment]#(
+<! -- 
 <figure>
 	<p align="center">
-    		<img src="/images/data-story.jpg" width="100" height="100" alt="Data, visualisation, and Narrative">
+    		<img src="{{site.baseurl}}/images/data-story.jpg" width="100" height="100" alt="Data, visualisation, and Narrative">
     		<figcaption>
 			Source: Forbes article <a 
 href="https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/?sh=6d0b0ede52ad">here</a>
 		</figcaption> 
 	</p>
 </figure>
-
+-->)
+{% endcomment %}
 ### Background
 
 There is a growing interest in creating Learning Analytics (LA) interfaces (e.g., dashboards, visualizations, or reports) to support educational stakeholders in monitoring learning tasks (Salas-Pilco 
