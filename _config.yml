@@ -26,7 +26,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Converging Data Storytelling Narratives and LA Dashboards
 
-teaser: /images/banner1.jpeg
+header:
+  teaser: /images/banner1.jpeg
 site: https://datastorytelling-education.github.io
 baseurl: /
 #permalink: date
