@@ -50,6 +50,8 @@ The accepted papers will be published in the [CEUR](https://ceur-ws.org/) Worksh
 - [Overleaf Template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
 - [Microsoft Word template](/pages/CEUR-Template-1col.docx)  
 
-**Please upload your submission via:** [available from November 1, 2023]
+**Please upload your submission via:**[https://easychair.org/conferences/?conf=dslak24](https://easychair.org/conferences/?conf=dslak24)
+
+CFP from easychair: [https://easychair.org/cfp/DS-LAK24](https://easychair.org/cfp/DS-LAK24)
 
 **Remove all identifying information:** Submissions should omit author names, affiliations, acknowledgements
