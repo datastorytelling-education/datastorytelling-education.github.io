@@ -40,6 +40,7 @@ The accepted papers will be published in the [CEUR](https://ceur-ws.org/) Worksh
 ## Submission Guidelines
 
 ### Submnission types:
+
 - Short papers: The minimum length of a short paper should be five pages (=2500 chars per page)
 - Long papers: Long regular papers should be at least 10  pages.
 

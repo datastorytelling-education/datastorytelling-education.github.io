@@ -5,7 +5,7 @@
 layout: home
 
 
-excerpt: "Thuesday, March 19, 2024, LAK24 Kyoto, Japan"
+excerpt: "Tuesday, March 19, 2024, LAK24 Kyoto, Japan"
 header:
   overlay_image: /images/banner1.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -22,7 +22,7 @@ header:
 
 **Where**: LAK24 Conference, Kyoto, Japan
 
-**When**: Thuesday, March 19, 2024, from 1:30 to 5:00 pm
+**When**: Tuesday, March 19, 2024, from 1:30 to 5:00 pm
 
 
 ### Workshop abstract:
