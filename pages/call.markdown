@@ -36,8 +36,6 @@ This list is not exhaustive, and we encourage you to submit your ideas for other
 
 The accepted papers will be published in the [CEUR](https://ceur-ws.org/) Workshop Proceedings, but workshop papers are not included in the Companion Proceedings of LAK2024.
 
-**DS-LAK24 will use a double-blind peer review process**
-
 ## Submission Guidelines
 
 ### Submnission types:
@@ -46,6 +44,8 @@ The accepted papers will be published in the [CEUR](https://ceur-ws.org/) Worksh
 - Long papers: Long regular papers should be at least 10  pages.
 
 ### Preparing your Full or Short paper submission
+
+**DS-LAK24 will use a double-blind peer review process**
 
 **Use the CEUR templates:**
 
