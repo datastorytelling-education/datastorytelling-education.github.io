@@ -36,6 +36,7 @@ This list is not exhaustive, and we encourage you to submit your ideas for other
 
 The accepted papers will be published in the [CEUR](https://ceur-ws.org/) Workshop Proceedings, but workshop papers are not included in the Companion Proceedings of LAK2024.
 
+**DS-LAK24 will use a double-blind peer review process**
 
 ## Submission Guidelines
 
