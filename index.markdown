@@ -24,6 +24,7 @@ header:
 
 **When**: Tuesday, March 19, 2024, from 1:30 to 5:00 pm
 
+**Registration Open**: https://www.solaresearch.org/events/lak/lak24/registration/
 
 ### Workshop abstract:
 
