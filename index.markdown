@@ -11,8 +11,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [pixabay]"
   actions:
-    - label: "Call for papers"
-      url: "https://datastorytelling-education.github.io/pages/call/"
+    - label: "Registration Open"
+      url: "https://www.solaresearch.org/events/lak/lak24/registration/"
 ---
 
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
