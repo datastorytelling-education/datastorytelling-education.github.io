@@ -5,7 +5,7 @@
 layout: home
 
 
-excerpt: "Tuesday, March 19, 2024, LAK24 Kyoto, Japan"
+excerpt: "Tuesday, March 19, 2025, LAK25 Kyoto, Japan"
 header:
   overlay_image: /images/banner1.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
