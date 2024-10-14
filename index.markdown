@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-container: $large
-max-width: calc(100vw - 200px);
+max-width: calc(100vw - 200px)
 
 excerpt: "Tuesday, March 4, 2025, LAK25 Dublin, Ireland"
 header:

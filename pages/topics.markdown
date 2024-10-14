@@ -1,7 +1,7 @@
 ---
 
 layout: single
-container: $large
+max-width: calc(100vw - 200px)
 title: Topics of interest
 permalink: /pages/topics/
 

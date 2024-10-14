@@ -1,6 +1,6 @@
 ---
 layout: single
-container: $large
+max-width: calc(100vw - 200px)
 title: Archival
 perlink: /pages/material/
 
