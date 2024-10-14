@@ -12,26 +12,25 @@ permalink: /pages/about/
 
 - Gloria Milena Fernandez-Nieto, Monash University, Australia
 - Vanessa Echeverria, Monash University, Australia
-- Roberto Martinez-Maldonado, Monash University, Australia
-- Yi-shan Tsai, Monash University, Australia
-- Lu Lawrence, Utah State University, United States
-- Shaveen Singh, Monash University, Australia
+- Namrata Srivastava, Vanderbilt University, United States
 - Stanislav Pozdniakov, The University of Queensland, Australia
-- Lujie Karen Chen, University of Maryland Baltimore County, United States
-- Jiaqi Gong, The University of Alabama, United States
-- Louise Yarnall, SRI Education, United States
+- Yi-shan Tsai, Monash University, Australia
+- Mikaela Milesi, Monash University, Australia
+- Adriano Pinargote, Escuela Superior Politecnica del Litoral, Ecuador 
+- Maurice Boothe Jr., New York University, United States
+- Roberto Martinez-Maldonado, Monash University, Australia
 
 <table border=0>
   <tr>
     <td><img src="{{site.baseurl}}/images/MonashLogo.jpg" width="300"></td>
-    <td><img src="{{site.baseurl}}/images/UtahLogo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/VanderbiltUniversity.jpeg" width="300"></td>
     <td><img src="{{site.baseurl}}/images/QueenslandLogo.png" width="300"></td>
 
   </tr>
   <tr>
-    <td><img src="{{site.baseurl}}/images/UMBC-logo.png" width="300"></td>
-    <td><img src="{{site.baseurl}}/images/AlabamaLogo.png" width="300"></td>
-    <td><img src="{{site.baseurl}}/images/SRILogo.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/Espol.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/NYU.png" width="300"></td>
+    <td></td>
   </tr>
 </table>
 

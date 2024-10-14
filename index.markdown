@@ -9,7 +9,7 @@ excerpt: "Tuesday, March 4, 2025, LAK25 Dublin, Ireland"
 header:
   overlay_image: /images/BannerOption2.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [pixabay]"
+  caption: "Image credit: [openAI]"
   actions:
     - label: "Registration Soon"
       url: "https://www.solaresearch.org/events/lak/lak25/"
