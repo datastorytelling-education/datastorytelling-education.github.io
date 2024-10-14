@@ -4,38 +4,41 @@ title: Program
 permalink: /pages/program/
 ---
 
-[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
+[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topics]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 
+[Material]({{site.baseurl}}/pages/material)
 
 ## Workshop Program
 
-This workshop is organised as follows:
+This half-day workshop is organised as follows:
 
-### Contextualising existing methods and methodologies for DS: 1 hours
+### Welcome and contextualisation: 30 minutes
 
-In the first activity of this workshop the organisers will introduce current work on DS in LA and 
-other research fields such as Information Visualisation and Human-Centered Design. After the 
-initial opening presentation, we will encourage active participation in small groups for 
-participants to share their perceptions and motivations in terms of the existing DS research and 
-what challenges and opportunities they foresee. 
+In the first activity of this workshop, the organisers will introduce current explorations of GenAI in crafting DS in LA and other research fields such as InfoVis and HCI. The motivation of this activity is 
+to broaden participants’ understanding of Human-AI collaborations for crafting DS in education and draw on inspirations from similar endeavours in other contexts.
+
+### Hands-on exploration of GenAI and its current uses for DS: 1.5 hours 
+
+Participants will engage in a hands-on activity, exploring the uses of GenAI across all stages of DS –analysis, planning, implementation, and communication (Li et al., 2024)–, and human-centred approaches to 
+designing data stories. The activity will focus on how GenAI can be integrated into each stage to craft and design data stories for educational purposes. The organisers will provide examples and current 
+practices of GenAI applications for crafting DS and encourage participants to apply these insights to their own domains, envisioning potential Human-GenAI collaborations for designing and creating data 
+stories.
+
+### Working groups: 1 hour
+
+After the hands-on activity, participants will engage in small group discussions to share their perceptions, motivations, and insights on the challenges and opportunities they foresee in the current 
+capabilities of GenAI and its implications for DS research in LA. During this discussion, participants will reflect on the use of GenAI at various stages of crafting data stories and will discuss 
+considerations and recommendations for future design practices and applications of GenAI in educational data storytelling.
+
+### Wrap-up and conclusions: 30 minutes
+
+The workshop will conclude with a summary of key insights from the hands-on activities and group discussions, highlighting critical takeaways and future directions for exploring GenAI in educational data 
+storytelling. 
 
 
-### Methods and Methodologies for DS in LA Dashboards: 2 hours 
+### Intended outcomes
 
-This workshop activity will include 5-minute presentations of current methodological and technical 
-approaches of the use of DS to improve LA interfaces submitted to this workshop (in the form of 
-short papers). Each presenter will explain their technical or methodological approaches and 
-indicate the challenges they have faced running their studies. A variety of research will be 
-welcome during these sessions including: uses or definitions of DS frameworks for LA, studies 
-evaluating LA interfaces enhanced with DS, technical approaches to implementing DS-based LA 
-dashboards and interfaces, or work in progress in general (e.g., LA Dashboards or visual interfaces 
-prototypes using DS).
-
-### Reflections and Roadmap: 1 hour
-
-The last part of the workshop will focus on reflecting on the work presented during the session and 
-defining strategies to increase active use of DS in LA research and design practices. As a result 
-of this session, a list of challenges and opportunities will be identified and used to co-create a 
-roadmap to define priorities and main challenges for the DS LA community.
-
+Participants attending the workshop will gain: (i) deep insights into GenAI’s role in crafting DS; (ii) practical experience with GenAI tools through hands-on activities to craft DS; (iii) a critical 
+perspective on the opportunities and challenges of using GenAI for the design and automation of DS; (iv) and the chance to collaborate with DS experts in LA and practitioners to explore the future of DS in 
+the GenAI era. 
 
 

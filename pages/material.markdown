@@ -5,7 +5,8 @@ perlink: /pages/material/
 
 ---
 
-[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Call for papers]({{site.baseurl}}/pages/call) | [Workshop Program]({{site.baseurl}}/pages/program) | [Material]({{site.baseurl}}/pages/material)
+[Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topics]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 
+[Material]({{site.baseurl}}/pages/material)
 
 
 ## Relevant publications
@@ -36,5 +37,12 @@ Insights Combining Visualisation, Narrative and Storytelling. In LAK22: 12th Int
 ## LAK23 - Data Storytelling in Learning Analytics 
 
 <figure>
-        <p align="center"><img src="/images/soon.jpeg" width="350" height="250" alt="Data, visualisation, and Narrative"></p>
+        <p align="center">Not available</p>
 </figure>
+
+
+## LAK 24 - Converging Data Storytelling Narratives and Learning Analytics Dashboards
+
+- Workshop proposal: [here](/documents/LAK24_StorytellingWorkshop.pdf)
+- Presentation: [here](/documents/DS-LAK24Material.pdf)
+
