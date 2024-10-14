@@ -26,14 +26,14 @@ permalink: /pages/about/
 
 <table border=0>
   <tr>
-    <td><img src="{{site.baseurl}}/images/MonashLogo.jpg" width="300"></td>
-    <td><img src="{{site.baseurl}}/images/VanderbiltUniversity.jpeg" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/Monash_Trans.svg" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/VanderTrans.png" width="300"></td>
     <td><img src="{{site.baseurl}}/images/QueenslandLogo.png" width="300"></td>
 
   </tr>
   <tr>
     <td><img src="{{site.baseurl}}/images/Espol.png" width="300"></td>
-    <td><img src="{{site.baseurl}}/images/NYU.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/NYUTrans.png" width="300"></td>
     <td></td>
   </tr>
 </table>
