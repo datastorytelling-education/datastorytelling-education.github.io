@@ -1,5 +1,6 @@
 ---
 layout: single
+container: $large
 title: Workshop Program
 permalink: /pages/program/
 ---

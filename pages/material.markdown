@@ -1,5 +1,6 @@
 ---
 layout: single
+container: $large
 title: Archival
 perlink: /pages/material/
 

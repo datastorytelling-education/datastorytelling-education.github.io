@@ -1,6 +1,7 @@
 ---
 
 layout: single
+container: $large
 title: Topics of interest
 permalink: /pages/topics/
 
