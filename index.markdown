@@ -18,12 +18,6 @@ header:
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topics]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 
 [Material]({{site.baseurl}}/pages/material)
 
-**Where**: LAK25 Conference, Dublin, Ireland
-
-**When**: Tuesday, March 4, 2024, from 9:00am to 12:30pm
-
-**Registration opens soon**: [LAK24 Web page](https://www.solaresearch.org/events/lak/lak25/)
-
 ## About the workshop:
 
 Data Storytelling (DS) in education has provided tools and methods to support data experts to make stories more accessible to non-data experts (i.e., learners, educators, and professional staff) while also 
