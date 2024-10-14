@@ -33,7 +33,7 @@ permalink: /pages/about/
   </tr>
   <tr>
     <td><img src="{{site.baseurl}}/images/Espol.png" width="300"></td>
-    <td><img src="{{site.baseurl}}/images/NYUTrans.png" width="300"></td>
+    <td><img src="{{site.baseurl}}/images/NYU-Trans.png" width="300"></td>
     <td></td>
   </tr>
 </table>
