@@ -2,6 +2,7 @@
 
 layout: single
 title: Organisers
+classes: wide
 permalink: /pages/about/
 
 ---
