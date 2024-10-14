@@ -3,7 +3,8 @@
 layout: single
 title: Organisers
 classes: wide
-max-width: calc(100vw - 200px);
+# max-width: calc(100vw - 200px);
+container: $large
 permalink: /pages/about/
 
 ---
