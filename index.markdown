@@ -18,16 +18,13 @@ header:
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topics]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 
 [Material]({{site.baseurl}}/pages/material)
 
-
-## DS-LAK25 - AI-assisted Data Storytelling in Education:Tools, Methods and Future Practices
-
 **Where**: LAK25 Conference, Dublin, Ireland
 
 **When**: Tuesday, March 4, 2024, from 9:00am to 12:30pm
 
 **Registration opens soon**: [LAK24 Web page](https://www.solaresearch.org/events/lak/lak25/)
 
-### Workshop abstract:
+## About the workshop:
 
 Data Storytelling (DS) in education has provided tools and methods to support data experts to make stories more accessible to non-data experts (i.e., learners, educators, and professional staff) while also 
 allowing data savvy stakeholders (i.e., researchers), using human-centred approaches, in the creation process.  With the rise of Generative AI (GenAI), interest has grown in exploring its potential to 
@@ -37,13 +34,11 @@ communication) to automate the generation of actionable data stories that improv
 and produce meaningful learning and teaching stories? (iii) What challenges and risks arise from including GenAI in DS stages? This workshop aims to bring together experts in storytelling and GenAI within the 
 LA community to discuss and shape the future of DS in LA, addressing both its challenges and opportunities.
 
-### Motivation and Background
+## Motivation and Background
 
 In recent years, the Learning Analytics (LA) community has embraced new methods from Human-centred Interaction (HCI) and Information Visualisation (InfoVis) communities, such as the adoption of Data 
 Storytelling (DS) in LA interfaces (e.g., Maheshi et al., 2024; Fernandez-Nieto et al., 2024). DS, which incorporates narratives, visual elements, and storytelling techniques in large and complex data, aims 
-to support and guide the 
-interpretation and communication of 
-educational insights to non-data experts stakeholders (i.e., students and teachers) (Ryan, 2016). 
+to support and guide the interpretation and communication of educational insights to non-data experts stakeholders (i.e., students and teachers) (Ryan, 2016). 
 
 The current GenAI’s capabilities to process, generate, and combine together diverse data types (e.g., datasets, text, images, audio) have enabled a human-AI partnership to support humans in diverse and 
 complex tasks. While recent studies have begun to explore AI-assisted automation of crafting data stories to enhance accessibility and scalability (Li et al., 2023; Li et al., 2024; Ye et al., 2024), this 

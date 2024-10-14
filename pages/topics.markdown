@@ -1,15 +1,13 @@
 ---
 
 layout: single
-title: Topics
+title: Topics of interest
 permalink: /pages/topics/
 
 ---
 
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topcis]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 
-[Material]({{site.baseurl}}/pages$
-
-## Topics of interest
+[Material]({{site.baseurl}}/pages/material)
 
 Topics of interest for this year’s workshop include:
 - Human-GenAI Partnership in Crafting Data Stories. Exploring methodologies and frameworks that support a Human-GenAI partnership during the DS design process.
