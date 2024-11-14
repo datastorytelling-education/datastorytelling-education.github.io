@@ -11,8 +11,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [openAI]"
   actions:
-    - label: "Registration Soon"
-      url: "https://www.solaresearch.org/events/lak/lak25/"
+    - label: "Register Now"
+      url: "https://www.solaresearch.org/events/lak/lak25/registration/"
 ---
 
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topics]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 

@@ -8,6 +8,8 @@ permalink: /pages/program/
 [Home]({{site.baseurl}}/index) | [Organisers]({{site.baseurl}}/pages/about) | [Topics]({{site.baseurl}}/pages/topics) | [Workshop Program]({{site.baseurl}}/pages/program) | 
 [Material]({{site.baseurl}}/pages/material)
 
+LAK25 Pre-conference Schedule available [here](https://www.solaresearch.org/events/lak/lak25/pre-conference-schedule/)
+
 This half-day workshop is organised as follows:
 
 ## Welcome and contextualisation: 30 minutes
